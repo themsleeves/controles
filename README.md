@@ -6,4 +6,6 @@
 
 This is a production version, all tests have been successfully done with <b>SQLMAP</b> utility.
 
-Entry point will be in <b>ctrlInjection()</b> from the objet <b>OutilsControle.java</b>
+Entry point will be in <b>ctrlInjection()</b> from the object <b>OutilsControle.java</b>.
+The <b>CCJSqlParser</b> object is declared under <b>AbstractCtrlSQL.java</b>
+
